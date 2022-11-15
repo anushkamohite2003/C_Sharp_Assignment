@@ -1,0 +1,13 @@
+D:\C#.NET Assignment\Student_Mgt_System_002\obj\Debug\Student_Mgt_System_002.csprojAssemblyReference.cache
+D:\C#.NET Assignment\Student_Mgt_System_002\obj\Debug\Student_Mgt_System_002.frm_Login.resources
+D:\C#.NET Assignment\Student_Mgt_System_002\obj\Debug\Student_Mgt_System_002.Properties.Resources.resources
+D:\C#.NET Assignment\Student_Mgt_System_002\obj\Debug\Student_Mgt_System_002.csproj.GenerateResource.cache
+D:\C#.NET Assignment\Student_Mgt_System_002\obj\Debug\Student_Mgt_System_002.csproj.CoreCompileInputs.cache
+D:\C#.NET Assignment\Student_Mgt_System_002\bin\Debug\Student_Mgt_System_002.exe.config
+D:\C#.NET Assignment\Student_Mgt_System_002\bin\Debug\Student_Mgt_System_002.exe
+D:\C#.NET Assignment\Student_Mgt_System_002\bin\Debug\Student_Mgt_System_002.pdb
+D:\C#.NET Assignment\Student_Mgt_System_002\obj\Debug\Student_Mgt_System_002.exe
+D:\C#.NET Assignment\Student_Mgt_System_002\obj\Debug\Student_Mgt_System_002.pdb
+D:\C#.NET Assignment\Student_Mgt_System_002\obj\Debug\Student_Mgt_System_002.frm_Add_New_Student.resources
+D:\C#.NET Assignment\Student_Mgt_System_002\obj\Debug\Student_Mgt_System_002.frm_View_All_Students_List.resources
+D:\C#.NET Assignment\Student_Mgt_System_002\obj\Debug\Student_Mgt_System_002.frm_Search_Student_Details.resources
